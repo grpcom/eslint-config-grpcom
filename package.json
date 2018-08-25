@@ -1,0 +1,34 @@
+{
+  "name": "eslint-config-grpcom",
+  "version": "1.0.1",
+  "description": "Este pacote contém as definições de ESLint para os projetos da GRPCOM.",
+  "main": "index.js",
+  "keywords": [
+    ".eslintrc",
+    "eslint",
+    "eslint-config",
+    "grpcom",
+    "lint",
+    "linter",
+    "linting"
+  ],
+  "author": {
+    "name": "Rodrigo Scomação do Nascimento",
+    "email": "rodrigon@rpc.com.br"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/grpcom/eslint-config-grpcom#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grpcom/eslint-config-grpcom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grpcom/eslint-config-grpcom/issues"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
